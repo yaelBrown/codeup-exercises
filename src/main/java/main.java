@@ -20,8 +20,6 @@ public class main {
         System.out.println("Switch case: " + StringUtils.swapCase(input));
         System.out.println("Reversed: " + StringUtils.reverse(input));
 
-
-
     }
 
 }
